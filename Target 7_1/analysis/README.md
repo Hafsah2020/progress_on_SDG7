@@ -18,10 +18,9 @@
 *   What are the bottom countries in terms of access to clean cooking fuels
 *   Which countries had the highest positive and negative change in access
 
-
-
-
-
+Some of the information gained from the analysis include:
+![image](https://drive.google.com/uc?export=view&id=1MecppttXRYiko8foxc5e-O5dlpr6-t6k)
+![image](https://drive.google.com/uc?export=view&id=1JtMCdXy4LpegWcRgO20EHTdcIrPN1Tqx)
 
 The analysis can be viewed <a href='https://nbviewer.org/github/Hafsah2020/progress_on_SDG7/blob/main/Target%207_1/analysis/Target_7_1.ipynb'>View Target 7_1 notebook</a>
 
