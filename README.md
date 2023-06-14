@@ -1,9 +1,9 @@
 # progress_on_SDG7
-![image](https://github.com/Hafsah2020/progress_on_SDG7/assets/60625866/006ff2c3-636e-4b01-83bd-cdcd32a78ba9)
+![image](https://github.com/Hafsah2020/progress_on_SDG7/assets/60625866/006ff2c3-636e-4b01-83bd-cdcd32a78ba9)[0]
 
 Global analysis on progress made towards achieving all targets of SDG 7
 
-![image](https://github.com/Hafsah2020/progress_on_SDG7/assets/60625866/0e530b33-c871-447e-a289-cf4516f3cdeb)
+![image](https://github.com/Hafsah2020/progress_on_SDG7/assets/60625866/0e530b33-c871-447e-a289-cf4516f3cdeb)[1]
 
 Sustainable Development Goals (SDGs) are globally shared objectives that are expected to be met by 2030 towards making our world sustainable and comfortable for all.
 Readmore about SDGs <a href='https://sdgs.un.org/goals'>here</a>
@@ -24,4 +24,20 @@ The targets of this SDG7 are:
 * Target 7.a : By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology
 * Target 7.b : By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States, and land-locked developing countries, in accordance with their respective programmes of support
 
-To learn more about SDG 7 <a href='https://sdgs.un.org/goals/goal7'>here</a>
+Learn more about SDG 7 <a href='https://sdgs.un.org/goals/goal7'>here</a>
+
+
+![image](https://github.com/Hafsah2020/progress_on_SDG7/assets/60625866/b8c174ad-d537-47d6-a8e4-5d057d7f1cb8) [2]
+
+
+<h2> Data</h2>
+
+The data I used in this analysis was retrieved form world bank. The data is on all indicators for all countries. https://databank.worldbank.org/source/world-development-indicators#
+
+
+
+<u>Reference </u>
+
+0. https://sdgs.un.org/goals/goal7
+1. https://sdgs.un.org/goals/goal7
+2. https://whatcanyoudo.earth/mother-earths-blog/sdg-7-affordable-and-clean-energy-an-update/
